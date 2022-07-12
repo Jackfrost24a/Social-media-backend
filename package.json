@@ -1,0 +1,25 @@
+{
+  "name": "api-sosmed",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000o\u0000s\u0000m\u0000e\u0000d\u0000-\u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "handlebars": "^4.7.7",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.3",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7",
+    "validator": "^13.7.0"
+  },
+  "keywords": []
+}
